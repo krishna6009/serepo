@@ -1,0 +1,2 @@
+# serepo
+second repository
